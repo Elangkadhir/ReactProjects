@@ -1,4 +1,4 @@
-const faqData = [
+const data = [
     {
       id: 1,
       question: "What is React?",
@@ -26,5 +26,5 @@ const faqData = [
     }
   ];
   
-  export default faqData;
+  export default data;
   
